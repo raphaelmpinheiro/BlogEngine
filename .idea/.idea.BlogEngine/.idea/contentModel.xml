@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_BlogEngine.1021944473.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Blog.Core" t="IncludeRecursive">
+        <e p="Blog.Core.csproj" t="IncludeRecursive" />
+        <e p="Domain" t="Include">
+          <e p="Autenticacao.cs" t="Include" />
+          <e p="Blogueiro.cs" t="Include" />
+          <e p="Comentario.cs" t="Include" />
+          <e p="Entidade.cs" t="Include" />
+          <e p="Post.cs" t="Include" />
+          <e p="Repositorios" t="Include">
+            <e p="BlogImpl.cs" t="Include" />
+            <e p="IBlog.cs" t="Include" />
+            <e p="ITodosOsBlogueiros.cs" t="Include" />
+            <e p="TodosOsBlogueirosImpl.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Framework" t="Include">
+          <e p="EnviromentVariables.cs" t="Include" />
+          <e p="PaginatedList.cs" t="Include" />
+          <e p="QuerySpec.cs" t="Include" />
+        </e>
+        <e p="Infraestrutura" t="Include">
+          <e p="BlogDao.cs" t="Include" />
+          <e p="BlogueiroDao.cs" t="Include" />
+          <e p="Dao.cs" t="Include" />
+        </e>
+        <e p="Service" t="Include">
+          <e p="BlogueiroService.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Blog.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Blog.Teste" t="IncludeRecursive">
+        <e p="Blog.Teste.csproj" t="IncludeRecursive" />
+        <e p="BlogueiroTeste.cs" t="Include" />
+        <e p="Framework" t="Include">
+          <e p="EnviromentTeste.cs" t="Include" />
+        </e>
+        <e p="PostTeste.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Blog.Teste.AssemblyInfo.cs" t="Include" />
+              <e p="Blog.Teste.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Blog.View" t="IncludeRecursive">
+        <e p="Blog.View.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="Base" t="Include">
+            <e p="SecureController.cs" t="Include" />
+          </e>
+          <e p="BlogueiroController.cs" t="Include" />
+          <e p="PostController.cs" t="Include" />
+          <e p="TokenController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="BlogueiroModel.cs" t="Include" />
+          <e p="ComentarioModel.cs" t="Include" />
+          <e p="LoginModel.cs" t="Include" />
+          <e p="PostModel.cs" t="Include" />
+          <e p="PostRequest.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="dockerfile" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Blog.View.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="BlogEngine.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+/home/raphael/RiderProjects/BlogEngine/Blog.View/bin/Debug/netcoreapp2.0/Blog.View.deps.json
+/home/raphael/RiderProjects/BlogEngine/Blog.View/bin/Debug/netcoreapp2.0/Blog.View.runtimeconfig.json
+/home/raphael/RiderProjects/BlogEngine/Blog.View/bin/Debug/netcoreapp2.0/Blog.View.runtimeconfig.dev.json
+/home/raphael/RiderProjects/BlogEngine/Blog.View/bin/Debug/netcoreapp2.0/Blog.View.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.View/bin/Debug/netcoreapp2.0/Blog.View.pdb
+/home/raphael/RiderProjects/BlogEngine/Blog.View/obj/Debug/netcoreapp2.0/Blog.View.csproj.CoreCompileInputs.cache
+/home/raphael/RiderProjects/BlogEngine/Blog.View/obj/Debug/netcoreapp2.0/Blog.View.AssemblyInfoInputs.cache
+/home/raphael/RiderProjects/BlogEngine/Blog.View/obj/Debug/netcoreapp2.0/Blog.View.AssemblyInfo.cs
+/home/raphael/RiderProjects/BlogEngine/Blog.View/obj/Debug/netcoreapp2.0/Blog.View.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.View/obj/Debug/netcoreapp2.0/Blog.View.pdb
+/home/raphael/RiderProjects/BlogEngine/Blog.View/bin/Debug/netcoreapp2.0/Blog.Core.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.View/bin/Debug/netcoreapp2.0/Blog.Core.pdb

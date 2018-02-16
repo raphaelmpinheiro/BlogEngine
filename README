@@ -1,0 +1,23 @@
+Projeto Blog
+Este projeto foi desenvolvido utilizando ASP.NET CORE 2.0, com DDD.
+
+A documentação da API está em http://localhost:5000/swagger/
+
+Usuário e senha padrão: "admin@admin.com" - "123"
+
+Configuração do MongoDB: Configurar as seguintes variaveis de ambiente:
+mongodb-connection - Conexão com o banco, no formato mongodb://172.17.0.2:27017
+mongodb-database - Nome do Database, default blog.
+
+Algumas caracteristicas:
+ - Foram utilizadas duas nomenclaturas para o repositório: Diante do contexto entendi que o repositório de Posts poderia ser o Blog e o repositório de blogueiros como não tem uma nomenclatura dentro do negócio, user a nomenclatura TodosOsBlogueiros. (Idéia do Rodrigo Yoshima http://blog.aspercom.com.br/2009/08/11/repositorios-ddd/)
+ - Para consulta foi adotado um padrão Query Spec. Fiz um modelo simplista para transformar uma QueryString em consultas direto no mongo.
+ - Para implementação do OAuth com JWT foi usado como referência o exemplo o site Auth0 (https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
+ - Para não misturar muita regra de acesso a banco no repositório, costumo criar um DAO normalmente para abstrair a camada com o banco de dados e realizar os mapeamentos. Me senti mais seguro em fazer o mapeamento do mongo para objetos de domínio por não conhecer completamente os recursos do banco e também em caso de bancos legados, o auto mapeamento não iria funcionar.
+ - Foi criada uma classe EnviromentVariables, para me auxiliar no momento de configurar o container. Normalmente configuro os serviços usando variaveis de ambiente informadas diretamente no Docker.
+ - Criei uma pasta chamada Framework dentro de Blog.Core que estas classes depois de maduras podem ser movidas para um pacote para que outros projetos possam utilizar.
+
+Publicação da URL do DockerHUB
+ - https://hub.docker.com/r/raphaelmpinheiro/myblog/
+
+Ambiente utilizado para desenvolvimento: Ubuntu 17.10 com IDE Rider

@@ -1,0 +1,10 @@
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/bin/Debug/netcoreapp2.0/Blog.Core.deps.json
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/bin/Debug/netcoreapp2.0/Blog.Core.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/bin/Debug/netcoreapp2.0/Blog.Core.pdb
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/obj/Debug/netcoreapp2.0/Blog.Core.csproj.CoreCompileInputs.cache
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/obj/Debug/netcoreapp2.0/Blog.Core.AssemblyInfoInputs.cache
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/obj/Debug/netcoreapp2.0/Blog.Core.AssemblyInfo.cs
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/obj/Debug/netcoreapp2.0/Blog.Core.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/obj/Debug/netcoreapp2.0/Blog.Core.pdb
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/bin/Debug/netcoreapp2.0/Microsoft.IdentityModel.Protocols.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Core/bin/Debug/netcoreapp2.0/Microsoft.IdentityModel.Protocols.xml

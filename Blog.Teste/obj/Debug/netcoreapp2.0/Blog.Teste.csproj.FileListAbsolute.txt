@@ -1,0 +1,15 @@
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/Blog.Teste.deps.json
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/Blog.Teste.runtimeconfig.json
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/Blog.Teste.runtimeconfig.dev.json
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/Blog.Teste.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/Blog.Teste.pdb
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/obj/Debug/netcoreapp2.0/Blog.Teste.csproj.CoreCompileInputs.cache
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/obj/Debug/netcoreapp2.0/Blog.Teste.AssemblyInfoInputs.cache
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/obj/Debug/netcoreapp2.0/Blog.Teste.AssemblyInfo.cs
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/obj/Debug/netcoreapp2.0/Blog.Teste.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/obj/Debug/netcoreapp2.0/Blog.Teste.pdb
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/Blog.Core.dll
+/home/raphael/RiderProjects/BlogEngine/Blog.Teste/bin/Debug/netcoreapp2.0/Blog.Core.pdb
