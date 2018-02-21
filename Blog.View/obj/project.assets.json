@@ -13249,7 +13249,7 @@
     ]
   },
   "packageFolders": {
-    "/home/raphael/.nuget/packages/": {},
+    "/root/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
@@ -13258,14 +13258,14 @@
       "projectUniqueName": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.View/Blog.View.csproj",
       "projectName": "Blog.View",
       "projectPath": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.View/Blog.View.csproj",
-      "packagesPath": "/home/raphael/.nuget/packages/",
+      "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.View/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/raphael/.config/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -13296,7 +13296,6 @@
             "version": "[2.0.5, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
