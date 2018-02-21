@@ -7475,11 +7475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/raphael/RiderProjects/BlogEngine/Blog.Teste/Blog.Teste.csproj",
+      "projectUniqueName": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.Teste/Blog.Teste.csproj",
       "projectName": "Blog.Teste",
-      "projectPath": "/home/raphael/RiderProjects/BlogEngine/Blog.Teste/Blog.Teste.csproj",
+      "projectPath": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.Teste/Blog.Teste.csproj",
       "packagesPath": "/home/raphael/.nuget/packages/",
-      "outputPath": "/home/raphael/RiderProjects/BlogEngine/Blog.Teste/obj/",
+      "outputPath": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.Teste/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -7496,8 +7496,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/home/raphael/RiderProjects/BlogEngine/Blog.Core/Blog.Core.csproj": {
-              "projectPath": "/home/raphael/RiderProjects/BlogEngine/Blog.Core/Blog.Core.csproj"
+            "/home/raphael/RiderProjects/BlogEngineRemote/Blog.Core/Blog.Core.csproj": {
+              "projectPath": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.Core/Blog.Core.csproj"
             }
           }
         }

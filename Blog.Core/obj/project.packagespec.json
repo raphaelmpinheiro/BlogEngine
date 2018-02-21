@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/raphael/RiderProjects/BlogEngine/Blog.Core/Blog.Core.csproj",
+    "projectUniqueName": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.Core/Blog.Core.csproj",
     "projectName": "Blog.Core",
-    "projectPath": "/home/raphael/RiderProjects/BlogEngine/Blog.Core/Blog.Core.csproj",
-    "outputPath": "/home/raphael/RiderProjects/BlogEngine/Blog.Core/obj/",
+    "projectPath": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.Core/Blog.Core.csproj",
+    "outputPath": "/home/raphael/RiderProjects/BlogEngineRemote/Blog.Core/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
